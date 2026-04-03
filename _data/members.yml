@@ -2269,6 +2269,9 @@
   from: 2026-04-01
   to: 2029-03-31
   nationality: th
+  website: "5730289021-NN.github.io"
+  bio: >
+    graduated with a B.Eng. (Electrical Engineering) from Chulalongkorn University. He also graduated with a M.Eng. (Robotics and Automation) from the Institute of Field Robotics (FIBO), King Mongkut's University of Technology Thonburi. Then, he applied his knowledge at FIBO's Industrial Services for 3 years as a Software Supervisor, working on several types of wheeled mobile robots. His research interests involve Optimal Control and Residual Reinforcement Learning.
 - id: delooecker
   given: Thibault
   family: Delooecker
